@@ -1,0 +1,14 @@
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\bin\Debug\net8.0\Exercicio9-teste.exe
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\bin\Debug\net8.0\Exercicio9-teste.deps.json
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\bin\Debug\net8.0\Exercicio9-teste.runtimeconfig.json
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\bin\Debug\net8.0\Exercicio9-teste.dll
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\bin\Debug\net8.0\Exercicio9-teste.pdb
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\Exercicio9-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\Exercicio9-teste.AssemblyInfoInputs.cache
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\Exercicio9-teste.AssemblyInfo.cs
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\Exercicio9-teste.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\Exercicio9-teste.dll
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\refint\Exercicio9-teste.dll
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\Exercicio9-teste.pdb
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\Exercicio9-teste.genruntimeconfig.cache
+C:\Users\Professor\source\repos\ListaExerciciosIF\Exercicio9-teste\obj\Debug\net8.0\ref\Exercicio9-teste.dll
