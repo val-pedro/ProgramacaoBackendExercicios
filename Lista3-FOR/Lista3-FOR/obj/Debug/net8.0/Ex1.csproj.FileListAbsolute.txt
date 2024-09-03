@@ -1,0 +1,14 @@
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\bin\Debug\net8.0\Ex1.exe
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\bin\Debug\net8.0\Ex1.deps.json
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\bin\Debug\net8.0\Ex1.runtimeconfig.json
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\bin\Debug\net8.0\Ex1.dll
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\bin\Debug\net8.0\Ex1.pdb
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\Ex1.AssemblyInfo.cs
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\Ex1.dll
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\refint\Ex1.dll
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\Ex1.pdb
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\Ex1.genruntimeconfig.cache
+C:\Users\Professor\source\repos\Lista3-FOR\Lista3-FOR\obj\Debug\net8.0\ref\Ex1.dll

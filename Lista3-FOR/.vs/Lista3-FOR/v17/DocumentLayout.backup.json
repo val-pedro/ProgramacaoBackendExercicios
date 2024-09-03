@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4011403D-289F-483E-BF1E-2B847EE23F91}|Ex7\\Ex7.csproj|c:\\users\\professor\\source\\repos\\lista3-for\\ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4011403D-289F-483E-BF1E-2B847EE23F91}|Ex7\\Ex7.csproj|solutionrelative:ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAF3F57-E2D5-44C1-AF27-CF953EF9ECC7}|Ex6\\Ex6.csproj|c:\\users\\professor\\source\\repos\\lista3-for\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAF3F57-E2D5-44C1-AF27-CF953EF9ECC7}|Ex6\\Ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8DBF68-C3A0-4EB2-A69D-3AB642BAB6A0}|Ex5\\Ex5.csproj|c:\\users\\professor\\source\\repos\\lista3-for\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8DBF68-C3A0-4EB2-A69D-3AB642BAB6A0}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CE93CC-2A81-4373-8DF5-66C590BA054C}|Ex4\\Ex4.csproj|c:\\users\\professor\\source\\repos\\lista3-for\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CE93CC-2A81-4373-8DF5-66C590BA054C}|Ex4\\Ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD447C42-892F-47E5-A26F-3EB858856281}|Ex3\\Ex3.csproj|c:\\users\\professor\\source\\repos\\lista3-for\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD447C42-892F-47E5-A26F-3EB858856281}|Ex3\\Ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F737486-5633-4B2D-A092-74F2DB232F20}|Ex2\\Ex2.csproj|c:\\users\\professor\\source\\repos\\lista3-for\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F737486-5633-4B2D-A092-74F2DB232F20}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C756E7-37F4-483B-8DBA-7F6E73924781}|Lista3-FOR\\Lista3-FOR.csproj|c:\\users\\professor\\source\\repos\\lista3-for\\lista3-for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C756E7-37F4-483B-8DBA-7F6E73924781}|Lista3-FOR\\Lista3-FOR.csproj|solutionrelative:lista3-for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex7\\Program.cs",
+              "RelativeDocumentMoniker": "Ex7\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex7\\Program.cs",
+              "RelativeToolTip": "Ex7\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:46:04.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex6\\Program.cs",
+              "RelativeToolTip": "Ex6\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:45:54.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex5\\Program.cs",
+              "RelativeToolTip": "Ex5\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:45:40.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex4\\Program.cs",
+              "RelativeToolTip": "Ex4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:45:29.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:45:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:45:03.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Lista3-FOR\\Program.cs",
+              "RelativeDocumentMoniker": "Lista3-FOR\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\Lista3-FOR\\Lista3-FOR\\Program.cs",
+              "RelativeToolTip": "Lista3-FOR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:44:11.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
